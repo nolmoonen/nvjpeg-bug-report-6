@@ -1,5 +1,8 @@
 # nvjpeg-bug-report-6
 
+> [!CAUTION]
+> Thanks to the nvJPEG team, this bug has been fixed in CUDA 13.0.
+
 Demonstrates nvJPEG producing non-deterministic results for truncated images.
 
 Tested with CUDA 12.8 driver version 570.86.15 on Ubuntu 22.04.1
